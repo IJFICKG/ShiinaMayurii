@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShiinaMayurii
-- 👀 I’m interested in Neurology, Philosophy, and HYistory
+- 👀 I’m interested in Neurology, Philosophy, and History
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate at the current moment
 - 📫 How to reach me ysuyeux0g@gmail.com
